@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Comida",
+        "nome": "Panqueca do alemão",
+        "centro": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.152188181877136,
+          -29.79499756838725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipo": "Banheiro",
+        "nome": "Banheiro bloco D9",
+        "centro": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.15162491798401,
+          -29.79544214753631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tipoDeslocamento": "a"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -51.15216672420502,
+            -29.795041793626687
+          ],
+          [
+            -51.15180730819702,
+            -29.794953343128274
+          ],
+          [
+            -51.15166783332825,
+            -29.79543283699847
+          ]
+        ]
+      }
+    }
+  ]
+}
